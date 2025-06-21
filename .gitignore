@@ -1,0 +1,2 @@
+# 忽略 Node.js 依赖和缓存
+node_modules/
